@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn
+pandas
+numpy
+lightgbm
+faiss-cpu
+implicit
+scikit-learn
+pyarrow
+streamlit
+requests
